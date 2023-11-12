@@ -1,0 +1,6 @@
+pyspark==3.3.1
+botocore
+boto3
+moto
+pytest
+pytest-cov
