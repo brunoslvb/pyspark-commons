@@ -16,7 +16,7 @@ jobs:
         uses: actions/setup-java@v3
         with:
           java-version: '11'
-          distribution: 'oracle'
+          distribution: 'corretto'
       - name: Set up Spark
         uses: vemonet/setup-spark@v1
         with:
